@@ -10,7 +10,6 @@ except:
     print("error when reading from url")
     data = {}
 final=[]
-print(len(data))
 for dict in data:
     if dict['date']>20200410:
         state=dict['state']
@@ -36,11 +35,13 @@ except:
 x=0
 y=20
 for num in range(0,len(final)//20):
-    for ele in final[x:y]:
-        cur.execute('INSERT INTO USstatesrecords (state,date,positive,recovered,death,positiveIncrease) VALUES (?,?,?,?,?,?)', (ele[0],ele[1],ele[2],ele[3],ele[4],ele[5]))
-    x+=20
-    y+=20
-
+    if num <len(final)//20:
+        for ele in final[x:y]:
+            cur.execute('INSERT INTO USstatesrecords (state,date,positive,recovered,death,positiveIncrease) VALUES (?,?,?,?,?,?)', (ele[0],ele[1],ele[2],ele[3],ele[4],ele[5]))
+        x+=20
+        y+=20
+for ele in final[x:]:
+    cur.execute('INSERT INTO USstatesrecords (state,date,positive,recovered,death,positiveIncrease) VALUES (?,?,?,?,?,?)', (ele[0],ele[1],ele[2],ele[3],ele[4],ele[5]))
 conn.commit()
 cur.execute('SELECT state,date,positive,recovered,death,positiveIncrease From USstatesrecords')
 for row in cur:
