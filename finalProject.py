@@ -3,9 +3,13 @@ import sqlite3
 import json
 
 urlc="https://covidtracking.com/api/v1/states/current.json"
+urlc2="https://covidtracking.com/api/v1/states/daily.json"
 r = requests.get(urlc)
+r2=requests.get(urlc2)
 datac = json.loads(r.text) 
+datac2=json.loads(r2.text)
 finalc=[]
+finalc2=[]
 for dict in datac:
     state=dict['state']
     positive=dict['positive']
@@ -13,7 +17,22 @@ for dict in datac:
     death=dict['death']
     info=(state,positive,recovered,death)
     finalc.append(info)
-
+for dict in datac2:
+    if dict['date']>20200415:
+        state=dict['state']
+        positive=dict['positive']
+        try:
+            recovered=dict['recovered']
+        except:
+            recovered=0
+        try:
+            death=dict['death']
+        except:
+            death=0
+        positiveIncrease=dict['positiveIncrease']
+        date=dict['date']
+        info=(state,date,positive,recovered,death,positiveIncrease)
+        finalc2.append(info)
 
 urly = "https://coronavirus-19-api.herokuapp.com/countries"
 payloady = {}
@@ -33,7 +52,7 @@ countryDict = response.json()
 conn = sqlite3.connect('finalDB.db')
 cur = conn.cursor()
 
-#Chenyiyang
+#Chenyiyang current
 cur.execute('Create TABLE USstatescurrent (state TEXT, positive INTEGER, recovered INTEGER, death INTEGER)')
 x=0
 y=20
@@ -45,6 +64,19 @@ for num in range(0,len(finalc)//20):
         y+=20
 for ele in finalc[x:]:
     cur.execute('INSERT INTO USstatescurrent (state,positive,recovered,death) VALUES (?,?,?,?)', (ele[0],ele[1],ele[2],ele[3]))
+
+#Chen Yiyang record
+cur.execute('Create TABLE USstatesrecords (state TEXT, date INTEGER, positive INTEGER, recovered INTEGER, death INTEGER, positiveIncrease INTEGER)')
+x=0
+y=20
+for num in range(0,len(finalc2)//20):
+    if num <len(finalc2)//20:
+        for ele in finalc2[x:y]:
+            cur.execute('INSERT INTO USstatesrecords (state,date,positive,recovered,death,positiveIncrease) VALUES (?,?,?,?,?,?)', (ele[0],ele[1],ele[2],ele[3],ele[4],ele[5]))
+        x+=20
+        y+=20
+for ele in finalc2[x:]:
+    cur.execute('INSERT INTO USstatesrecords (state,date,positive,recovered,death,positiveIncrease) VALUES (?,?,?,?,?,?)', (ele[0],ele[1],ele[2],ele[3],ele[4],ele[5]))
 
 
 #Yangzhixuan
