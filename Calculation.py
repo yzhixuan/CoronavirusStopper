@@ -33,8 +33,12 @@ f.write("Country with more than 5000 recovered cases: %d \n" % len(list(cur)))
 cur.execute("SELECT * FROM TotalByCountry WHERE TotalRecovered > 2000")
 f.write("Country with more than 2000 recovered cases: %d \n" % len(list(cur)))
 cur.execute("SELECT * FROM TotalByCountry WHERE TotalRecovered > 1000")
-f.write("Country with more than 1000 recovered cases: %d \n" % len(list(cur)))
+f.write("Country with more than 1000 recovered cases: %d \n \n" % len(list(cur)))
 
+cur.execute('''SELECT * FROM TotalByCountry JOIN NewByCountry ON TotalByCountry.Country = NewByCountry.Country WHERE TotalConfirmed > 10000''')
+result = cur.fetchall()
+for x in result:
+    f.write("Country with more than 10000's today's confirmed rate: %f \n" % (float(x[5])/x[1]))
 
 
 

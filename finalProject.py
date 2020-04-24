@@ -53,7 +53,7 @@ conn = sqlite3.connect('finalDB.db')
 cur = conn.cursor()
 
 #Chenyiyang current
-cur.execute('Create TABLE USstatescurrent (state TEXT, positive INTEGER, recovered INTEGER, death INTEGER)')
+cur.execute('Create TABLE IF NOT EXISTS USstatescurrent (state TEXT, positive INTEGER, recovered INTEGER, death INTEGER)')
 x=0
 y=20
 for num in range(0,len(finalc)//20):
@@ -66,7 +66,7 @@ for ele in finalc[x:]:
     cur.execute('INSERT INTO USstatescurrent (state,positive,recovered,death) VALUES (?,?,?,?)', (ele[0],ele[1],ele[2],ele[3]))
 
 #Chen Yiyang record
-cur.execute('Create TABLE USstatesrecords (state TEXT, date INTEGER, positive INTEGER, recovered INTEGER, death INTEGER, positiveIncrease INTEGER)')
+cur.execute('Create TABLE IF NOT EXISTS USstatesrecords (state TEXT, date INTEGER, positive INTEGER, recovered INTEGER, death INTEGER, positiveIncrease INTEGER)')
 x=0
 y=20
 for num in range(0,len(finalc2)//20):
@@ -152,6 +152,7 @@ for x in countryDict["Countries"]:
        
     if count == 20:
         break
+
 
 conn.commit()
 
