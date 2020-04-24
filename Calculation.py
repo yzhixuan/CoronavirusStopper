@@ -1,4 +1,4 @@
-import finalProject
+
 import sqlite3
 
 conn = sqlite3.connect('finalDB.db')
