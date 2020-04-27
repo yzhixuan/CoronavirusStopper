@@ -1,0 +1,697 @@
+Total Number of Country: 80 
+Country with more than 10000 confirmed cases: 8 
+Country with more than 5000 confirmed cases: 13 
+Country with more than 2000 confirmed cases: 20 
+Country with more than 1000 confirmed cases: 30 
+ 
+Country with more than 5000 deaths: 2 
+Country with more than 2000 deaths: 5 
+Country with more than 1000 deaths: 5 
+Country with more than 500 deaths: 7 
+ 
+Country with more than 10000 recovered cases: 5 
+Country with more than 5000 recovered cases: 8 
+Country with more than 2000 recovered cases: 10 
+Country with more than 1000 recovered cases: 15 
+ 
+Country with more than 10000's today's confirmed rate: 0.005133 
+Country with more than 10000's today's confirmed rate: 0.021216 
+Country with more than 10000's today's confirmed rate: 0.085518 
+Country with more than 10000's today's confirmed rate: 0.037796 
+Country with more than 10000's today's confirmed rate: 0.043684 
+Country with more than 10000's today's confirmed rate: 0.000191 
+Country with more than 10000's today's confirmed rate: 0.029777 
+Country with more than 10000's today's confirmed rate: 0.014643 
+State distribution of positive cases:
+State AK contains 0.009774961248224844 percent of total US positive cases.
+State AL contains 0.16916194065177237 percent of total US positive cases.
+State AR contains 0.07538612547221475 percent of total US positive cases.
+State AZ contains 0.16733457400892915 percent of total US positive cases.
+State CA contains 1.0839184774033062 percent of total US positive cases.
+State CO contains 0.3266635417730213 percent of total US positive cases.
+State CT contains 0.6700344357091806 percent of total US positive cases.
+State DC contains 0.0974885601046994 percent of total US positive cases.
+State DE contains 0.09595125165913289 percent of total US positive cases.
+State FL contains 0.8599645432859649 percent of total US positive cases.
+State GA contains 0.6347343531006061 percent of total US positive cases.
+State HI contains 0.017142439459053065 percent of total US positive cases.
+State IA contains 0.1138188366113777 percent of total US positive cases.
+State ID contains 0.05325468502000241 percent of total US positive cases.
+State IL contains 1.0713009458217697 percent of total US positive cases.
+State IN contains 0.3782068834290912 percent of total US positive cases.
+State KS contains 0.07199244456407734 percent of total US positive cases.
+State KY contains 0.10096925847201983 percent of total US positive cases.
+State LA contains 0.7465807939705023 percent of total US positive cases.
+State MA contains 1.3349348413265638 percent of total US positive cases.
+State MD contains 0.4564645850543453 percent of total US positive cases.
+State ME contains 0.02717845308482694 percent of total US positive cases.
+State MI contains 1.0236443840092075 percent of total US positive cases.
+State MN contains 0.0853351216388056 percent of total US positive cases.
+State MO contains 0.18334578649860309 percent of total US positive cases.
+State MS contains 0.14946698905668435 percent of total US positive cases.
+State MT contains 0.01282057231963021 percent of total US positive cases.
+State NC contains 0.22067627648811458 percent of total US positive cases.
+State ND contains 0.020565126186918144 percent of total US positive cases.
+State NE contains 0.06160836110157142 percent of total US positive cases.
+State NH contains 0.04843971894520917 percent of total US positive cases.
+State NJ contains 2.900262908750012 percent of total US positive cases.
+State NM contains 0.06410286159815105 percent of total US positive cases.
+State NV contains 0.12205648941403603 percent of total US positive cases.
+State NY contains 7.64187326545198 percent of total US positive cases.
+State OH contains 0.4102003025887114 percent of total US positive cases.
+State OK contains 0.08751055811838088 percent of total US positive cases.
+State OR contains 0.06169537856075443 percent of total US positive cases.
+State PA contains 1.0629762755599284 percent of total US positive cases.
+State RI contains 0.18146040821630452 percent of total US positive cases.
+State SC contains 0.14262161560095418 percent of total US positive cases.
+State SD contains 0.056735383387322834 percent of total US positive cases.
+State TN contains 0.23976210586892155 percent of total US positive cases.
+State TX contains 0.636503708103994 percent of total US positive cases.
+State UT contains 0.10476902085634461 percent of total US positive cases.
+State VA contains 0.3082448462459508 percent of total US positive cases.
+State VT contains 0.023929801275327883 percent of total US positive cases.
+State WA contains 0.36991121898697754 percent of total US positive cases.
+State WI contains 0.14653740126418965 percent of total US positive cases.
+State WV contains 0.028454709152844426 percent of total US positive cases.
+State WY contains 0.009629932149586493 percent of total US positive cases.
+State PR contains 0.026540325050818197 percent of total US positive cases.
+State AS contains 0.0 percent of total US positive cases.
+State GU contains 0.004089820581601493 percent of total US positive cases.
+State MP contains 0.00040608147618738225 percent of total US positive cases.
+State VI contains 0.0015663142652941886 percent of total US positive cases.
+State AK contains 0.009774961248224844 percent of total US positive cases.
+State AL contains 0.16916194065177237 percent of total US positive cases.
+State AR contains 0.07538612547221475 percent of total US positive cases.
+State AZ contains 0.16733457400892915 percent of total US positive cases.
+State CA contains 1.0839184774033062 percent of total US positive cases.
+State CO contains 0.3266635417730213 percent of total US positive cases.
+State CT contains 0.6700344357091806 percent of total US positive cases.
+State DC contains 0.0974885601046994 percent of total US positive cases.
+State DE contains 0.09595125165913289 percent of total US positive cases.
+State FL contains 0.8599645432859649 percent of total US positive cases.
+State GA contains 0.6347343531006061 percent of total US positive cases.
+State HI contains 0.017142439459053065 percent of total US positive cases.
+State IA contains 0.1138188366113777 percent of total US positive cases.
+State ID contains 0.05325468502000241 percent of total US positive cases.
+State IL contains 1.0713009458217697 percent of total US positive cases.
+State IN contains 0.3782068834290912 percent of total US positive cases.
+State KS contains 0.07199244456407734 percent of total US positive cases.
+State KY contains 0.10096925847201983 percent of total US positive cases.
+State LA contains 0.7465807939705023 percent of total US positive cases.
+State MA contains 1.3349348413265638 percent of total US positive cases.
+State MD contains 0.4564645850543453 percent of total US positive cases.
+State ME contains 0.02717845308482694 percent of total US positive cases.
+State MI contains 1.0236443840092075 percent of total US positive cases.
+State MN contains 0.0853351216388056 percent of total US positive cases.
+State MO contains 0.18334578649860309 percent of total US positive cases.
+State MS contains 0.14946698905668435 percent of total US positive cases.
+State MT contains 0.01282057231963021 percent of total US positive cases.
+State NC contains 0.22067627648811458 percent of total US positive cases.
+State ND contains 0.020565126186918144 percent of total US positive cases.
+State NE contains 0.06160836110157142 percent of total US positive cases.
+State NH contains 0.04843971894520917 percent of total US positive cases.
+State NJ contains 2.900262908750012 percent of total US positive cases.
+State NM contains 0.06410286159815105 percent of total US positive cases.
+State NV contains 0.12205648941403603 percent of total US positive cases.
+State NY contains 7.64187326545198 percent of total US positive cases.
+State OH contains 0.4102003025887114 percent of total US positive cases.
+State OK contains 0.08751055811838088 percent of total US positive cases.
+State OR contains 0.06169537856075443 percent of total US positive cases.
+State PA contains 1.0629762755599284 percent of total US positive cases.
+State RI contains 0.18146040821630452 percent of total US positive cases.
+State SC contains 0.14262161560095418 percent of total US positive cases.
+State SD contains 0.056735383387322834 percent of total US positive cases.
+State TN contains 0.23976210586892155 percent of total US positive cases.
+State TX contains 0.636503708103994 percent of total US positive cases.
+State UT contains 0.10476902085634461 percent of total US positive cases.
+State VA contains 0.3082448462459508 percent of total US positive cases.
+State VT contains 0.023929801275327883 percent of total US positive cases.
+State WA contains 0.36991121898697754 percent of total US positive cases.
+State WI contains 0.14653740126418965 percent of total US positive cases.
+State WV contains 0.028454709152844426 percent of total US positive cases.
+State WY contains 0.009629932149586493 percent of total US positive cases.
+State PR contains 0.026540325050818197 percent of total US positive cases.
+State AS contains 0.0 percent of total US positive cases.
+State GU contains 0.004089820581601493 percent of total US positive cases.
+State MP contains 0.00040608147618738225 percent of total US positive cases.
+State VI contains 0.0015663142652941886 percent of total US positive cases.
+State AK contains 0.009774961248224844 percent of total US positive cases.
+State AL contains 0.16916194065177237 percent of total US positive cases.
+State AR contains 0.07538612547221475 percent of total US positive cases.
+State AZ contains 0.16733457400892915 percent of total US positive cases.
+State CA contains 1.0839184774033062 percent of total US positive cases.
+State CO contains 0.3266635417730213 percent of total US positive cases.
+State CT contains 0.6700344357091806 percent of total US positive cases.
+State DC contains 0.0974885601046994 percent of total US positive cases.
+State DE contains 0.09595125165913289 percent of total US positive cases.
+State FL contains 0.8599645432859649 percent of total US positive cases.
+State GA contains 0.6347343531006061 percent of total US positive cases.
+State HI contains 0.017142439459053065 percent of total US positive cases.
+State IA contains 0.1138188366113777 percent of total US positive cases.
+State ID contains 0.05325468502000241 percent of total US positive cases.
+State IL contains 1.0713009458217697 percent of total US positive cases.
+State IN contains 0.3782068834290912 percent of total US positive cases.
+State KS contains 0.07199244456407734 percent of total US positive cases.
+State KY contains 0.10096925847201983 percent of total US positive cases.
+State LA contains 0.7465807939705023 percent of total US positive cases.
+State MA contains 1.3349348413265638 percent of total US positive cases.
+State MD contains 0.4564645850543453 percent of total US positive cases.
+State ME contains 0.02717845308482694 percent of total US positive cases.
+State MI contains 1.0236443840092075 percent of total US positive cases.
+State MN contains 0.0853351216388056 percent of total US positive cases.
+State MO contains 0.18334578649860309 percent of total US positive cases.
+State MS contains 0.14946698905668435 percent of total US positive cases.
+State MT contains 0.01282057231963021 percent of total US positive cases.
+State NC contains 0.22067627648811458 percent of total US positive cases.
+State ND contains 0.020565126186918144 percent of total US positive cases.
+State NE contains 0.06160836110157142 percent of total US positive cases.
+State NH contains 0.04843971894520917 percent of total US positive cases.
+State NJ contains 2.900262908750012 percent of total US positive cases.
+State NM contains 0.06410286159815105 percent of total US positive cases.
+State NV contains 0.12205648941403603 percent of total US positive cases.
+State NY contains 7.64187326545198 percent of total US positive cases.
+State OH contains 0.4102003025887114 percent of total US positive cases.
+State OK contains 0.08751055811838088 percent of total US positive cases.
+State OR contains 0.06169537856075443 percent of total US positive cases.
+State PA contains 1.0629762755599284 percent of total US positive cases.
+State RI contains 0.18146040821630452 percent of total US positive cases.
+State SC contains 0.14262161560095418 percent of total US positive cases.
+State SD contains 0.056735383387322834 percent of total US positive cases.
+State TN contains 0.23976210586892155 percent of total US positive cases.
+State TX contains 0.636503708103994 percent of total US positive cases.
+State UT contains 0.10476902085634461 percent of total US positive cases.
+State VA contains 0.3082448462459508 percent of total US positive cases.
+State VT contains 0.023929801275327883 percent of total US positive cases.
+State WA contains 0.36991121898697754 percent of total US positive cases.
+State WI contains 0.14653740126418965 percent of total US positive cases.
+State WV contains 0.028454709152844426 percent of total US positive cases.
+State WY contains 0.009629932149586493 percent of total US positive cases.
+State PR contains 0.026540325050818197 percent of total US positive cases.
+State AS contains 0.0 percent of total US positive cases.
+State GU contains 0.004089820581601493 percent of total US positive cases.
+State MP contains 0.00040608147618738225 percent of total US positive cases.
+State VI contains 0.0015663142652941886 percent of total US positive cases.
+State AK contains 0.009774961248224844 percent of total US positive cases.
+State AL contains 0.16916194065177237 percent of total US positive cases.
+State AR contains 0.07538612547221475 percent of total US positive cases.
+State AZ contains 0.16733457400892915 percent of total US positive cases.
+State CA contains 1.0839184774033062 percent of total US positive cases.
+State CO contains 0.3266635417730213 percent of total US positive cases.
+State CT contains 0.6700344357091806 percent of total US positive cases.
+State DC contains 0.0974885601046994 percent of total US positive cases.
+State DE contains 0.09595125165913289 percent of total US positive cases.
+State FL contains 0.8599645432859649 percent of total US positive cases.
+State GA contains 0.6347343531006061 percent of total US positive cases.
+State HI contains 0.017142439459053065 percent of total US positive cases.
+State IA contains 0.1138188366113777 percent of total US positive cases.
+State ID contains 0.05325468502000241 percent of total US positive cases.
+State IL contains 1.0713009458217697 percent of total US positive cases.
+State IN contains 0.3782068834290912 percent of total US positive cases.
+State KS contains 0.07199244456407734 percent of total US positive cases.
+State KY contains 0.10096925847201983 percent of total US positive cases.
+State LA contains 0.7465807939705023 percent of total US positive cases.
+State MA contains 1.3349348413265638 percent of total US positive cases.
+State MD contains 0.4564645850543453 percent of total US positive cases.
+State ME contains 0.02717845308482694 percent of total US positive cases.
+State MI contains 1.0236443840092075 percent of total US positive cases.
+State MN contains 0.0853351216388056 percent of total US positive cases.
+State MO contains 0.18334578649860309 percent of total US positive cases.
+State MS contains 0.14946698905668435 percent of total US positive cases.
+State MT contains 0.01282057231963021 percent of total US positive cases.
+State NC contains 0.22067627648811458 percent of total US positive cases.
+State ND contains 0.020565126186918144 percent of total US positive cases.
+State NE contains 0.06160836110157142 percent of total US positive cases.
+State NH contains 0.04843971894520917 percent of total US positive cases.
+State NJ contains 2.900262908750012 percent of total US positive cases.
+State NM contains 0.06410286159815105 percent of total US positive cases.
+State NV contains 0.12205648941403603 percent of total US positive cases.
+State NY contains 7.64187326545198 percent of total US positive cases.
+State OH contains 0.4102003025887114 percent of total US positive cases.
+State OK contains 0.08751055811838088 percent of total US positive cases.
+State OR contains 0.06169537856075443 percent of total US positive cases.
+State PA contains 1.0629762755599284 percent of total US positive cases.
+State RI contains 0.18146040821630452 percent of total US positive cases.
+State SC contains 0.14262161560095418 percent of total US positive cases.
+State SD contains 0.056735383387322834 percent of total US positive cases.
+State TN contains 0.23976210586892155 percent of total US positive cases.
+State TX contains 0.636503708103994 percent of total US positive cases.
+State UT contains 0.10476902085634461 percent of total US positive cases.
+State VA contains 0.3082448462459508 percent of total US positive cases.
+State VT contains 0.023929801275327883 percent of total US positive cases.
+State WA contains 0.36991121898697754 percent of total US positive cases.
+State WI contains 0.14653740126418965 percent of total US positive cases.
+State WV contains 0.028454709152844426 percent of total US positive cases.
+State WY contains 0.009629932149586493 percent of total US positive cases.
+State PR contains 0.026540325050818197 percent of total US positive cases.
+State AS contains 0.0 percent of total US positive cases.
+State GU contains 0.004089820581601493 percent of total US positive cases.
+State MP contains 0.00040608147618738225 percent of total US positive cases.
+State VI contains 0.0015663142652941886 percent of total US positive cases.
+US and each states death rate:
+US death rate of coronavirus is 5.120339344886158 precent.
+State AK death rate is 2.6706231454005933
+State AL death rate is 3.377914951989026
+State AR death rate is 1.7314351673720663
+State AZ death rate is 4.316172646905876
+State CA death rate is 3.9310658567261636
+State CO death rate is 4.901438465636654
+State CT death rate is 7.095238095238095
+State DC death rate is 4.135673906575424
+State DE death rate is 2.781136638452237
+State FL death rate is 3.3931462493254183
+State GA death rate is 4.025956221724626
+State HI death rate is 2.030456852791878
+State IA death rate is 2.4464831804281344
+State ID death rate is 2.9411764705882355
+State IL death rate is 4.570314615259653
+State IN death rate is 5.414525653807807
+State KS death rate is 4.512489927477841
+State KY death rate is 5.48692904337834
+State LA death rate is 5.983138428066359
+State MA death rate is 5.127870847185103
+State MD death rate is 4.753129567261867
+State ME death rate is 4.695837780149413
+State MI death rate is 8.435578476098723
+State MN death rate is 6.798096532970768
+State MO death rate is 3.4488213890207247
+State MS death rate is 3.90064040364836
+State MT death rate is 3.167420814479638
+State NC death rate is 3.3254468980021032
+State ND death rate is 2.1156558533145273
+State NE death rate is 2.212806026365348
+State NH death rate is 3.053892215568862
+State NJ death rate is 5.368590544959946
+State NM death rate is 3.2126696832579187
+State NV death rate is 4.63403041825095
+State NY death rate is 5.974341456008502
+State OH death rate is 4.6386649695941164
+State OK death rate is 5.933046072257209
+State OR death rate is 3.902209685002351
+State PA death rate is 3.8775343138592517
+State RI death rate is 3.0210997442455243
+State SC death rate is 3.050640634533252
+State SD death rate is 0.4601226993865031
+State TN death rate is 2.056617469150738
+State TX death rate is 2.556507473569085
+State UT death rate is 0.9689922480620154
+State VA death rate is 3.500517549637715
+State VT death rate is 5.212121212121212
+State WA death rate is 5.57515878616796
+State WI death rate is 5.087094220110847
+State WV death rate is 3.1600407747196737
+State WY death rate is 2.108433734939759
+State PR death rate is 7.540983606557377
+State AS death rate is unavailableState GU death rate is 3.5460992907801416
+State MP death rate is 14.285714285714286
+State VI death rate is 5.555555555555555
+State AK death rate is 2.6706231454005933
+State AL death rate is 3.377914951989026
+State AR death rate is 1.7314351673720663
+State AZ death rate is 4.316172646905876
+State CA death rate is 3.9310658567261636
+State CO death rate is 4.901438465636654
+State CT death rate is 7.095238095238095
+State DC death rate is 4.135673906575424
+State DE death rate is 2.781136638452237
+State FL death rate is 3.3931462493254183
+State GA death rate is 4.025956221724626
+State HI death rate is 2.030456852791878
+State IA death rate is 2.4464831804281344
+State ID death rate is 2.9411764705882355
+State IL death rate is 4.570314615259653
+State IN death rate is 5.414525653807807
+State KS death rate is 4.512489927477841
+State KY death rate is 5.48692904337834
+State LA death rate is 5.983138428066359
+State MA death rate is 5.127870847185103
+State MD death rate is 4.753129567261867
+State ME death rate is 4.695837780149413
+State MI death rate is 8.435578476098723
+State MN death rate is 6.798096532970768
+State MO death rate is 3.4488213890207247
+State MS death rate is 3.90064040364836
+State MT death rate is 3.167420814479638
+State NC death rate is 3.3254468980021032
+State ND death rate is 2.1156558533145273
+State NE death rate is 2.212806026365348
+State NH death rate is 3.053892215568862
+State NJ death rate is 5.368590544959946
+State NM death rate is 3.2126696832579187
+State NV death rate is 4.63403041825095
+State NY death rate is 5.974341456008502
+State OH death rate is 4.6386649695941164
+State OK death rate is 5.933046072257209
+State OR death rate is 3.902209685002351
+State PA death rate is 3.8775343138592517
+State RI death rate is 3.0210997442455243
+State SC death rate is 3.050640634533252
+State SD death rate is 0.4601226993865031
+State TN death rate is 2.056617469150738
+State TX death rate is 2.556507473569085
+State UT death rate is 0.9689922480620154
+State VA death rate is 3.500517549637715
+State VT death rate is 5.212121212121212
+State WA death rate is 5.57515878616796
+State WI death rate is 5.087094220110847
+State WV death rate is 3.1600407747196737
+State WY death rate is 2.108433734939759
+State PR death rate is 7.540983606557377
+State AS death rate is unavailableState GU death rate is 3.5460992907801416
+State MP death rate is 14.285714285714286
+State VI death rate is 5.555555555555555
+State AK death rate is 2.6706231454005933
+State AL death rate is 3.377914951989026
+State AR death rate is 1.7314351673720663
+State AZ death rate is 4.316172646905876
+State CA death rate is 3.9310658567261636
+State CO death rate is 4.901438465636654
+State CT death rate is 7.095238095238095
+State DC death rate is 4.135673906575424
+State DE death rate is 2.781136638452237
+State FL death rate is 3.3931462493254183
+State GA death rate is 4.025956221724626
+State HI death rate is 2.030456852791878
+State IA death rate is 2.4464831804281344
+State ID death rate is 2.9411764705882355
+State IL death rate is 4.570314615259653
+State IN death rate is 5.414525653807807
+State KS death rate is 4.512489927477841
+State KY death rate is 5.48692904337834
+State LA death rate is 5.983138428066359
+State MA death rate is 5.127870847185103
+State MD death rate is 4.753129567261867
+State ME death rate is 4.695837780149413
+State MI death rate is 8.435578476098723
+State MN death rate is 6.798096532970768
+State MO death rate is 3.4488213890207247
+State MS death rate is 3.90064040364836
+State MT death rate is 3.167420814479638
+State NC death rate is 3.3254468980021032
+State ND death rate is 2.1156558533145273
+State NE death rate is 2.212806026365348
+State NH death rate is 3.053892215568862
+State NJ death rate is 5.368590544959946
+State NM death rate is 3.2126696832579187
+State NV death rate is 4.63403041825095
+State NY death rate is 5.974341456008502
+State OH death rate is 4.6386649695941164
+State OK death rate is 5.933046072257209
+State OR death rate is 3.902209685002351
+State PA death rate is 3.8775343138592517
+State RI death rate is 3.0210997442455243
+State SC death rate is 3.050640634533252
+State SD death rate is 0.4601226993865031
+State TN death rate is 2.056617469150738
+State TX death rate is 2.556507473569085
+State UT death rate is 0.9689922480620154
+State VA death rate is 3.500517549637715
+State VT death rate is 5.212121212121212
+State WA death rate is 5.57515878616796
+State WI death rate is 5.087094220110847
+State WV death rate is 3.1600407747196737
+State WY death rate is 2.108433734939759
+State PR death rate is 7.540983606557377
+State AS death rate is unavailableState GU death rate is 3.5460992907801416
+State MP death rate is 14.285714285714286
+State VI death rate is 5.555555555555555
+State AK death rate is 2.6706231454005933
+State AL death rate is 3.377914951989026
+State AR death rate is 1.7314351673720663
+State AZ death rate is 4.316172646905876
+State CA death rate is 3.9310658567261636
+State CO death rate is 4.901438465636654
+State CT death rate is 7.095238095238095
+State DC death rate is 4.135673906575424
+State DE death rate is 2.781136638452237
+State FL death rate is 3.3931462493254183
+State GA death rate is 4.025956221724626
+State HI death rate is 2.030456852791878
+State IA death rate is 2.4464831804281344
+State ID death rate is 2.9411764705882355
+State IL death rate is 4.570314615259653
+State IN death rate is 5.414525653807807
+State KS death rate is 4.512489927477841
+State KY death rate is 5.48692904337834
+State LA death rate is 5.983138428066359
+State MA death rate is 5.127870847185103
+State MD death rate is 4.753129567261867
+State ME death rate is 4.695837780149413
+State MI death rate is 8.435578476098723
+State MN death rate is 6.798096532970768
+State MO death rate is 3.4488213890207247
+State MS death rate is 3.90064040364836
+State MT death rate is 3.167420814479638
+State NC death rate is 3.3254468980021032
+State ND death rate is 2.1156558533145273
+State NE death rate is 2.212806026365348
+State NH death rate is 3.053892215568862
+State NJ death rate is 5.368590544959946
+State NM death rate is 3.2126696832579187
+State NV death rate is 4.63403041825095
+State NY death rate is 5.974341456008502
+State OH death rate is 4.6386649695941164
+State OK death rate is 5.933046072257209
+State OR death rate is 3.902209685002351
+State PA death rate is 3.8775343138592517
+State RI death rate is 3.0210997442455243
+State SC death rate is 3.050640634533252
+State SD death rate is 0.4601226993865031
+State TN death rate is 2.056617469150738
+State TX death rate is 2.556507473569085
+State UT death rate is 0.9689922480620154
+State VA death rate is 3.500517549637715
+State VT death rate is 5.212121212121212
+State WA death rate is 5.57515878616796
+State WI death rate is 5.087094220110847
+State WV death rate is 3.1600407747196737
+State WY death rate is 2.108433734939759
+State PR death rate is 7.540983606557377
+State AS death rate is unavailableState GU death rate is 3.5460992907801416
+State MP death rate is 14.285714285714286
+State VI death rate is 5.555555555555555
+US and each states recover rate:
+US recover rate of coronavirus is 7.386506028569572 percent.
+State AK recover rate is 62.017804154302674 percent.
+State AL recover rate unavailable.
+State AR recover rate is 35.475182762601 percent.
+State AZ recover rate is 22.22222222222222 percent.
+State CA recover rate unavailable.
+State CO recover rate unavailable.
+State CT recover rate unavailable.
+State DC recover rate is 19.27997619756025 percent.
+State DE recover rate is 19.437726723095526 percent.
+State FL recover rate unavailable.
+State GA recover rate unavailable.
+State HI recover rate is 76.98815566835871 percent.
+State IA recover rate is 38.02242609582059 percent.
+State ID recover rate is 44.77124183006536 percent.
+State IL recover rate unavailable.
+State IN recover rate unavailable.
+State KS recover rate unavailable.
+State KY recover rate is 38.35104854926745 percent.
+State LA recover rate unavailable.
+State MA recover rate unavailable.
+State MD recover rate is 6.608629344856071 percent.
+State ME recover rate is 51.76093916755603 percent.
+State MI recover rate is 9.172310220736165 percent.
+State MN recover rate is 52.2093813732155 percent.
+State MO recover rate unavailable.
+State MS recover rate unavailable.
+State MT recover rate is 69.23076923076923 percent.
+State NC recover rate unavailable.
+State ND recover rate is 37.94076163610719 percent.
+State NE recover rate unavailable.
+State NH recover rate is 32.9940119760479 percent.
+State NJ recover rate unavailable.
+State NM recover rate is 24.751131221719458 percent.
+State NV recover rate unavailable.
+State NY recover rate is 9.066651484096257 percent.
+State OH recover rate unavailable.
+State OK recover rate is 62.44613854822671 percent.
+State OR recover rate unavailable.
+State PA recover rate unavailable.
+State RI recover rate is 5.466751918158568 percent.
+State SC recover rate is 67.4598332316453 percent.
+State SD recover rate is 54.396728016359916 percent.
+State TN recover rate is 50.725864989112026 percent.
+State TX recover rate is 36.57036091870215 percent.
+State UT recover rate is 29.069767441860463 percent.
+State VA recover rate is 14.745459678178225 percent.
+State VT recover rate is 207.27272727272728 percent.
+State WA recover rate unavailable.
+State WI recover rate unavailable.
+State WV recover rate is 38.73598369011213 percent.
+State WY recover rate is 84.03614457831326 percent.
+State PR recover rate unavailable.
+State AS recover rate unavailable.
+State GU recover rate is 89.36170212765957 percent.
+State MP recover rate is 78.57142857142857 percent.
+State VI recover rate is 92.5925925925926 percent.
+State AK recover rate is 62.017804154302674 percent.
+State AL recover rate unavailable.
+State AR recover rate is 35.475182762601 percent.
+State AZ recover rate is 22.22222222222222 percent.
+State CA recover rate unavailable.
+State CO recover rate unavailable.
+State CT recover rate unavailable.
+State DC recover rate is 19.27997619756025 percent.
+State DE recover rate is 19.437726723095526 percent.
+State FL recover rate unavailable.
+State GA recover rate unavailable.
+State HI recover rate is 76.98815566835871 percent.
+State IA recover rate is 38.02242609582059 percent.
+State ID recover rate is 44.77124183006536 percent.
+State IL recover rate unavailable.
+State IN recover rate unavailable.
+State KS recover rate unavailable.
+State KY recover rate is 38.35104854926745 percent.
+State LA recover rate unavailable.
+State MA recover rate unavailable.
+State MD recover rate is 6.608629344856071 percent.
+State ME recover rate is 51.76093916755603 percent.
+State MI recover rate is 9.172310220736165 percent.
+State MN recover rate is 52.2093813732155 percent.
+State MO recover rate unavailable.
+State MS recover rate unavailable.
+State MT recover rate is 69.23076923076923 percent.
+State NC recover rate unavailable.
+State ND recover rate is 37.94076163610719 percent.
+State NE recover rate unavailable.
+State NH recover rate is 32.9940119760479 percent.
+State NJ recover rate unavailable.
+State NM recover rate is 24.751131221719458 percent.
+State NV recover rate unavailable.
+State NY recover rate is 9.066651484096257 percent.
+State OH recover rate unavailable.
+State OK recover rate is 62.44613854822671 percent.
+State OR recover rate unavailable.
+State PA recover rate unavailable.
+State RI recover rate is 5.466751918158568 percent.
+State SC recover rate is 67.4598332316453 percent.
+State SD recover rate is 54.396728016359916 percent.
+State TN recover rate is 50.725864989112026 percent.
+State TX recover rate is 36.57036091870215 percent.
+State UT recover rate is 29.069767441860463 percent.
+State VA recover rate is 14.745459678178225 percent.
+State VT recover rate is 207.27272727272728 percent.
+State WA recover rate unavailable.
+State WI recover rate unavailable.
+State WV recover rate is 38.73598369011213 percent.
+State WY recover rate is 84.03614457831326 percent.
+State PR recover rate unavailable.
+State AS recover rate unavailable.
+State GU recover rate is 89.36170212765957 percent.
+State MP recover rate is 78.57142857142857 percent.
+State VI recover rate is 92.5925925925926 percent.
+State AK recover rate is 62.017804154302674 percent.
+State AL recover rate unavailable.
+State AR recover rate is 35.475182762601 percent.
+State AZ recover rate is 22.22222222222222 percent.
+State CA recover rate unavailable.
+State CO recover rate unavailable.
+State CT recover rate unavailable.
+State DC recover rate is 19.27997619756025 percent.
+State DE recover rate is 19.437726723095526 percent.
+State FL recover rate unavailable.
+State GA recover rate unavailable.
+State HI recover rate is 76.98815566835871 percent.
+State IA recover rate is 38.02242609582059 percent.
+State ID recover rate is 44.77124183006536 percent.
+State IL recover rate unavailable.
+State IN recover rate unavailable.
+State KS recover rate unavailable.
+State KY recover rate is 38.35104854926745 percent.
+State LA recover rate unavailable.
+State MA recover rate unavailable.
+State MD recover rate is 6.608629344856071 percent.
+State ME recover rate is 51.76093916755603 percent.
+State MI recover rate is 9.172310220736165 percent.
+State MN recover rate is 52.2093813732155 percent.
+State MO recover rate unavailable.
+State MS recover rate unavailable.
+State MT recover rate is 69.23076923076923 percent.
+State NC recover rate unavailable.
+State ND recover rate is 37.94076163610719 percent.
+State NE recover rate unavailable.
+State NH recover rate is 32.9940119760479 percent.
+State NJ recover rate unavailable.
+State NM recover rate is 24.751131221719458 percent.
+State NV recover rate unavailable.
+State NY recover rate is 9.066651484096257 percent.
+State OH recover rate unavailable.
+State OK recover rate is 62.44613854822671 percent.
+State OR recover rate unavailable.
+State PA recover rate unavailable.
+State RI recover rate is 5.466751918158568 percent.
+State SC recover rate is 67.4598332316453 percent.
+State SD recover rate is 54.396728016359916 percent.
+State TN recover rate is 50.725864989112026 percent.
+State TX recover rate is 36.57036091870215 percent.
+State UT recover rate is 29.069767441860463 percent.
+State VA recover rate is 14.745459678178225 percent.
+State VT recover rate is 207.27272727272728 percent.
+State WA recover rate unavailable.
+State WI recover rate unavailable.
+State WV recover rate is 38.73598369011213 percent.
+State WY recover rate is 84.03614457831326 percent.
+State PR recover rate unavailable.
+State AS recover rate unavailable.
+State GU recover rate is 89.36170212765957 percent.
+State MP recover rate is 78.57142857142857 percent.
+State VI recover rate is 92.5925925925926 percent.
+State AK recover rate is 62.017804154302674 percent.
+State AL recover rate unavailable.
+State AR recover rate is 35.475182762601 percent.
+State AZ recover rate is 22.22222222222222 percent.
+State CA recover rate unavailable.
+State CO recover rate unavailable.
+State CT recover rate unavailable.
+State DC recover rate is 19.27997619756025 percent.
+State DE recover rate is 19.437726723095526 percent.
+State FL recover rate unavailable.
+State GA recover rate unavailable.
+State HI recover rate is 76.98815566835871 percent.
+State IA recover rate is 38.02242609582059 percent.
+State ID recover rate is 44.77124183006536 percent.
+State IL recover rate unavailable.
+State IN recover rate unavailable.
+State KS recover rate unavailable.
+State KY recover rate is 38.35104854926745 percent.
+State LA recover rate unavailable.
+State MA recover rate unavailable.
+State MD recover rate is 6.608629344856071 percent.
+State ME recover rate is 51.76093916755603 percent.
+State MI recover rate is 9.172310220736165 percent.
+State MN recover rate is 52.2093813732155 percent.
+State MO recover rate unavailable.
+State MS recover rate unavailable.
+State MT recover rate is 69.23076923076923 percent.
+State NC recover rate unavailable.
+State ND recover rate is 37.94076163610719 percent.
+State NE recover rate unavailable.
+State NH recover rate is 32.9940119760479 percent.
+State NJ recover rate unavailable.
+State NM recover rate is 24.751131221719458 percent.
+State NV recover rate unavailable.
+State NY recover rate is 9.066651484096257 percent.
+State OH recover rate unavailable.
+State OK recover rate is 62.44613854822671 percent.
+State OR recover rate unavailable.
+State PA recover rate unavailable.
+State RI recover rate is 5.466751918158568 percent.
+State SC recover rate is 67.4598332316453 percent.
+State SD recover rate is 54.396728016359916 percent.
+State TN recover rate is 50.725864989112026 percent.
+State TX recover rate is 36.57036091870215 percent.
+State UT recover rate is 29.069767441860463 percent.
+State VA recover rate is 14.745459678178225 percent.
+State VT recover rate is 207.27272727272728 percent.
+State WA recover rate unavailable.
+State WI recover rate unavailable.
+State WV recover rate is 38.73598369011213 percent.
+State WY recover rate is 84.03614457831326 percent.
+State PR recover rate unavailable.
+State AS recover rate unavailable.
+State GU recover rate is 89.36170212765957 percent.
+State MP recover rate is 78.57142857142857 percent.
+State VI recover rate is 92.5925925925926 percent.
